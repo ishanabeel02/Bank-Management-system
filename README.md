@@ -25,23 +25,3 @@ Programming Language: C++
 File Handling: Used for data storage and retrieval.
 
 
-
-How to Use
-
-Run the program.
-
-Choose an option from the menu:
-
-Create a new account
-
-Deposit/Withdraw money
-
-View account details
-
-Apply for a loan
-
-Exit the system
-
-
-
-✅ Developed by: Isha Nabeel
